@@ -5,5 +5,5 @@ module.exports = {
     key: 'myblog',
     maxAge: 2592000000
   },
-  mongodb: 'mongodb://localhost27017/myblog'//mogodb地址，myblog为db名
+  mongodb: 'mongodb://localhost:27017/myblog'//mogodb地址，myblog为db名
 }
